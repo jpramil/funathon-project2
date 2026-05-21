@@ -97,6 +97,8 @@ Open a terminal in the VS Code service and clone **your fork** (replace `<YOUR_G
 
 ```bash
 git clone https://<YOUR_GITHUB_TOKEN>@github.com/<YOUR_GITHUB_NAME>/funathon-project2.git
+git config --global user.email "<YOUR_EMAIL>"
+git config --global user.name "<YOUR_GITHUB_NAME>"
 cd funathon-project2
 ```
 
